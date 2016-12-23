@@ -22,7 +22,6 @@ and	and
 human	human
 (natural)	natur
 languages.	languag
-	
 As	as
 such,	such
 NLP	nlp
@@ -34,7 +33,6 @@ area	area
 of	of
 humani-computer	humanicomput
 interaction.	interact
-	
 The	the
 history	histori
 of	of
@@ -52,7 +50,6 @@ found	found
 from	from
 earlier	earlier
 periods.	period
-	
 The	the
 Georgetown	georgetown
 experiment	experi
@@ -70,7 +67,6 @@ Russian	russian
 sentences	sentenc
 into	into
 English.	english
-	
 The	the
 authors	author
 claimed	claim
@@ -87,7 +83,6 @@ be	be
 a	a
 solved	solv
 problem.	problem
-	
 However,	howev
 real	real
 progress	progress
@@ -121,7 +116,6 @@ translation	translat
 was	wa
 dramatically	dramat
 reduced.	reduc
-	
 Some	some
 notably	notabl
 successful	success
@@ -161,7 +155,6 @@ between	between
 1964	
 to	to
 1966.	
-	
 Using	use
 almost	almost
 no	no
@@ -178,7 +171,6 @@ a	a
 startlingly	startlingli
 human-like	humanlik
 interaction.	interact
-	
 During	dure
 the	the
 1970s	s
@@ -196,7 +188,6 @@ information	inform
 into	into
 computer-understandable	computerunderstand
 data.	data
-	
 Examples	exampl
 are	are
 MARGIE	margi
@@ -222,7 +213,6 @@ Plot	plot
 Units	unit
 (Lehnert	lehnert
 1981).	
-	
 Up	up
 to	to
 the	the
@@ -238,7 +228,6 @@ sets	set
 of	of
 hand-written	handwritten
 rules.	rule
-	
 Starting	start
 in	in
 the	the
@@ -261,7 +250,6 @@ algorithms	algorithm
 for	for
 language	languag
 processing.	process
-	
 This	thi
 was	wa
 due	due
@@ -309,7 +297,6 @@ approach	approach
 to	to
 language	languag
 processing.	process
-	
 Some	some
 of	of
 the	the
@@ -332,7 +319,6 @@ to	to
 existing	exist
 hand-written	handwritten
 rules.	rule
-	
 However,	howev
 Part	part
 of	of
@@ -373,7 +359,6 @@ up	up
 the	the
 input	input
 data.	data
-	
 The	the
 cache	cach
 language	languag
@@ -392,7 +377,6 @@ of	of
 such	such
 statistical	statist
 models.	model
-	
 Many	mani
 of	of
 the	the
@@ -421,7 +405,6 @@ statistical	statist
 models	model
 were	were
 developed.	develop
-	
 These	these
 systems	system
 were	were
@@ -470,7 +453,6 @@ corresponding	correspond
 systems	system
 of	of
 government.	govern
-	
 However,	howev
 most	most
 other	other
@@ -503,7 +485,6 @@ success	success
 of	of
 these	these
 systems.	system
-	
 Recent	recent
 research	research
 has	ha
@@ -515,7 +496,6 @@ and	and
 semi-supervised	semisupervis
 learning	learn
 algorithms.	algorithm
-	
 Such	such
 algorithms	algorithm
 are	are
@@ -542,7 +522,6 @@ annotated	annot
 and	and
 non-annotated	nonannot
 data.	data
-	
 Generally,	gener
 this	thi
 task	task
@@ -566,7 +545,6 @@ amount	amount
 of	of
 input	input
 data.	data
-	
 Modern	modern
 NLP	nlp
 algorithms	algorithm
@@ -579,7 +557,6 @@ especially	especi
 statistical	statist
 machine	machin
 learning.	learn
-	
 The	the
 paradigm	paradigm
 of	of
@@ -596,7 +573,6 @@ attempts	attempt
 at	at
 language	languag
 processing.	process
-	
 Prior	prior
 implementations	implement
 of	of
@@ -613,7 +589,6 @@ large	larg
 sets	set
 of	of
 rules.	rule
-	
 The	the
 machine-learning	machinelearn
 paradigm	paradigm
@@ -649,7 +624,6 @@ of	of
 typical	typic
 real-world	realworld
 examples.	exampl
-	
 Many	mani
 different	differ
 classes	class
@@ -663,7 +637,6 @@ applied	appli
 to	to
 NLP	nlp
 tasks.	task
-	
 These	these
 algorithms	algorithm
 take	take
@@ -681,7 +654,6 @@ from	from
 the	the
 input	input
 data.	data
-	
 Some	some
 of	of
 the	the
@@ -708,7 +680,6 @@ that	that
 were	were
 then	then
 common.	common
-	
 Increasingly,	increasingli
 however,	howev
 research	research
@@ -731,7 +702,6 @@ to	to
 each	each
 input	input
 feature.	featur
-	
 Automatic	automat
 learning	learn
 procedures	procedur
@@ -774,7 +744,6 @@ or	or
 words	word
 accidentally	accident
 omitted).	omit
-	
 Systems	system
 based	base
 on	on
@@ -793,7 +762,6 @@ supplying	suppli
 more	more
 input	input
 data.	data
-	
 However,	howev
 systems	system
 based	base
@@ -820,7 +788,6 @@ much	much
 more	more
 difficult	difficult
 task.	task
-	
 In	in
 particular,	particular
 there	there
@@ -845,7 +812,6 @@ more	more
 and	and
 more	more
 unmanageable.	unmanag
-	
 The	the
 subfield	subfield
 of	of
@@ -883,4 +849,3 @@ Linguistics	linguist
 and	and
 Language	languag
 Acquisition.	acquisit
-	
