@@ -9,7 +9,6 @@ free
 encyclopedia
 
 
-
 Natural
 language
 processing
@@ -76,9 +75,7 @@ language
 generation.
 
 
-
 History
-
 
 
 The
@@ -125,7 +122,6 @@ a
 criterion
 of
 intelligence.
-
 
 
 The
@@ -220,7 +216,6 @@ were
 developed.
 
 
-
 Some
 notably
 successful
@@ -310,7 +305,6 @@ head
 hurts?".
 
 
-
 During
 the
 1970s
@@ -367,7 +361,6 @@ PARRY,
 Racter,
 and
 Jabberwacky.
-
 
 
 Up
@@ -578,7 +571,6 @@ multiple
 subtasks.
 
 
-
 Many
 of
 the
@@ -713,7 +705,6 @@ of
 data.
 
 
-
 Recent
 research
 has
@@ -810,12 +801,10 @@ inferior
 results.
 
 
-
 NLP
 using
 machine
 learning
-
 
 
 Modern
@@ -925,7 +914,6 @@ values
 to
 be
 learned.
-
 
 
 Many
@@ -1050,7 +1038,6 @@ larger
 system.
 
 
-
 Systems
 based
 on
@@ -1062,7 +1049,6 @@ advantages
 over
 hand-produced
 rules:
-
 
 
 The
@@ -1338,6 +1324,5 @@ field
 of
 Computational
 Psycholinguistics.
-
 
 
