@@ -3,8 +3,8 @@ others	involve	generation
 Turing	published	article
 experiment	involved	translation
 ELIZA	provided	interaction
-ELIZA	provide	response
 patient	exceeded	base
+ELIZA	provide	response
 which	structured	information
 underpinnings	discouraged	sort
 that	underlies	approach
